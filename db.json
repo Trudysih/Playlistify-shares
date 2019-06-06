@@ -1,0 +1,27 @@
+{
+  "shares": [
+    {
+      "id": 1,
+      "playlistName": "Summer Hits",
+      "sharedWith": 2
+    },
+    {
+      "id": 2,
+      "playlistName": "Dance Party",
+      "sharedWith": 4
+      
+    },
+    {
+      "id": 3,
+      "playlistName": "Top Hits",
+      "sharedWith": 1
+      
+    },
+    {
+      "id": 4,
+      "playlistName": "Chill Vibes",
+      "sharedWith": 2
+      
+    }
+  ]
+}
